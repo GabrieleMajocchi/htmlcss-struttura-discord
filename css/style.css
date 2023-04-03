@@ -44,3 +44,11 @@ nav{
 .dash-black{
     border: dashed black;
 }
+
+.one-fifth{
+    width: 20%;
+}
+
+.tree-fifth{
+    width: 60%;
+}
