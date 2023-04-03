@@ -114,3 +114,18 @@ ul{
 .bg-darkgrey{
     background-color: #23272A;
 }
+
+.long-pic, .long-info{
+    height: 46.75vh;
+    margin-bottom: 20px;
+}
+
+.long-pic{
+    width: 20%;
+    background-color: #F08080;
+}
+
+.long-info{
+    width: 40%;
+    background-color: #20B2AA;
+}
