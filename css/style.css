@@ -56,3 +56,8 @@ nav{
 nav li, nav p{
     padding: 6px;
 }
+
+ul{
+    justify-content: center;
+    list-style: none;
+}
