@@ -84,3 +84,8 @@ ul{
 .bg-pink{
     background-color: #FFC0CB;
 }
+
+.article{
+    justify-content: center;
+    align-items: center;
+}
