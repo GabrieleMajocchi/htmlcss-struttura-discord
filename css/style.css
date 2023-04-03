@@ -40,3 +40,7 @@ nav{
 .left{
     text-align: left;
 }
+
+.dash-black{
+    border: dashed black;
+}
