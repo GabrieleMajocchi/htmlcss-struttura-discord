@@ -129,3 +129,8 @@ ul{
     width: 40%;
     background-color: #20B2AA;
 }
+
+.text{
+    border: dashed white;
+    width: 25%;
+}
