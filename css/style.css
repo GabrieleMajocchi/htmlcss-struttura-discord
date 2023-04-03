@@ -19,8 +19,12 @@ header{
     padding-top: 15px;
 }
 
-.height{
+.box-height{
     height: 50vh;
+}
+
+.cont-height{
+    height: 43.5vh;
 }
 
 nav{
@@ -61,3 +65,4 @@ ul{
     justify-content: center;
     list-style: none;
 }
+
