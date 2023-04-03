@@ -18,3 +18,13 @@ header{
     background-color: #ADD8E6;
     padding-top: 15px;
 }
+
+.height{
+    height: 50vh;
+}
+
+nav{
+    width: 74vw;
+    background-color: #DAA520;
+    margin-bottom: 15px;
+}
