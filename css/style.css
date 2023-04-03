@@ -6,8 +6,8 @@
 }
 
 .mar-side{
-    margin-left: 13vw;
-    margin-right: 13vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
 }
 
 .flex{
@@ -28,7 +28,7 @@ header{
 }
 
 nav{
-    width: 74vw;
+    width: 60vw;
     background-color: #DAA520;
     margin-bottom: 15px;
 }
@@ -72,7 +72,7 @@ ul{
 
 .big-pic{
     background-color: #EE82EE;
-    width: 60%;
+    width: 40%;
     height: 80%;
     margin: auto;
 }
