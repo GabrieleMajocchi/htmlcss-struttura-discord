@@ -5,9 +5,9 @@
     box-sizing: border-box;
 }
 
-.pad-side{
-    padding-left: 13vw;
-    padding-right: 13vw;
+.mar-side{
+    margin-left: 13vw;
+    margin-right: 13vw;
 }
 
 .flex{
