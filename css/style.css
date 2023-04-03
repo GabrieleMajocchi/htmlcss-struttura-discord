@@ -70,10 +70,13 @@ ul{
     list-style: none;
 }
 
-.showoff{
-    background-color: #00008B;
+.flx-center{
     justify-content: center;
     align-items: center;
+}
+
+.showoff{
+    background-color: #00008B;
 }
 
 .big-pic{
@@ -88,11 +91,6 @@ ul{
 
 .bg-pink{
     background-color: #FFC0CB;
-}
-
-.article{
-    justify-content: center;
-    align-items: center;
 }
 
 .info{
