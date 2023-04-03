@@ -134,3 +134,10 @@ ul{
     border: dashed white;
     width: 25%;
 }
+
+.lower-footer{
+    height: 10vh;
+    margin-top: 2px;
+    justify-content: center;
+    align-items: end;
+}
