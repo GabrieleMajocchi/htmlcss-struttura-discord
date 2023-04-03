@@ -76,3 +76,11 @@ ul{
     height: 80%;
     margin: auto;
 }
+
+.bg-blu{
+    background-color: #1E90FF;
+}
+
+.bg-pink{
+    background-color: #FFC0CB;
+}
