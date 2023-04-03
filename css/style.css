@@ -70,3 +70,9 @@ ul{
     background-color: #00008B;
 }
 
+.big-pic{
+    background-color: #EE82EE;
+    width: 60%;
+    height: 80%;
+    margin: auto;
+}
