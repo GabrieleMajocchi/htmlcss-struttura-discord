@@ -52,3 +52,7 @@ nav{
 .tree-fifth{
     width: 60%;
 }
+
+nav li, nav p{
+    padding: 6px;
+}
