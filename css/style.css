@@ -89,3 +89,11 @@ ul{
     justify-content: center;
     align-items: center;
 }
+
+.info{
+    width: 35%;
+}
+
+.pic{
+    width: 25%;
+}
