@@ -105,3 +105,9 @@ ul{
 .bg-grey{
     background-color: #D3D3D3;
 }
+
+.big-info{
+    background-color: #228B22;
+    height: 87vh;
+    width: 60%;
+}
