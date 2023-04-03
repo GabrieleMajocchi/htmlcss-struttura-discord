@@ -4,3 +4,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.pad-side{
+    padding-left: 13vw;
+    padding-right: 13vw;
+}
